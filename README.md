@@ -10,6 +10,12 @@ Je suis [Bertrand Morel](https://www.edikka.com/agence/bertrand-morel), fondateu
 
 [Découvrir Edikka](https://www.edikka.com/) · [Explorer la bibliothèque ouverte](https://www.edikka.com/bibliotheque) · [Lire les analyses](https://www.edikka.com/insights) · [English](#english)
 
+## Une démonstration à essayer
+
+**HTML, ARIA et agents : même apparence, trois réalités.** Trois commandes identiques en apparence, un compteur, des tests clavier et des instantanés ARIA. Vérifiée dans Chrome et Firefox ; essais de lecteurs d’écran et d’agents indépendants explicitement non testés.
+
+[Essayer la démonstration →](https://edikkaweb.github.io/html-aria-agent-demo/) · [Lire le code et les observations](https://github.com/edikkaweb/html-aria-agent-demo)
+
 ## Ce qui guide mon travail
 
 | Domaine | Ce que je cherche à rendre concret |
@@ -56,6 +62,8 @@ Les travaux ouverts d’Edikka séparent les sources, la méthode et les observa
 I’m [Bertrand Morel](https://www.edikka.com/en/agency/bertrand-morel), founder of **Edikka**, a Paris-based web agency established in 2004. My work connects digital strategy, UX/UI, web development, SEO and AI visibility.
 
 I focus on clear user journeys, appropriate HTML, accessible interactions, maintainable code and documented measurements. Edikka’s open resources distinguish methods, observations and limitations so readers can examine and reuse the work within its stated scope.
+
+Try the [HTML / ARIA demonstration](https://edikkaweb.github.io/html-aria-agent-demo/) with reproducible keyboard tests and published observations. Independent AI-agent and screen-reader trials remain **Not tested**.
 
 Start with the [open instrument library](https://www.edikka.com/en/library), the [semantic HTML experiment](https://www.edikka.com/en/insights/web-development/accessibility-seo-ai-semantic-html), or [Edikka in English](https://www.edikka.com/en/).
 
