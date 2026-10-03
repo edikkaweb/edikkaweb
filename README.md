@@ -5,7 +5,7 @@ Des démonstrations à essayer, du code à explorer, des méthodes à reproduire
 
 **[Explorer le laboratoire ouvert →](https://edikkaweb.github.io/)**
 
-| La question | Démonstration | Code |
+| La question | Démo | Code |
 | :--- | :--- | :--- |
 | Même apparence, trois réalités : que change l’élément HTML ? | [Essayer](https://edikkaweb.github.io/html-aria-agent-demo/) | [Dépôt](https://github.com/edikkaweb/html-aria-agent-demo) |
 | « Message envoyé » : votre demande est-elle vraiment reçue ? | [Essayer](https://edikkaweb.github.io/accessible-form-demo/) | [Dépôt](https://github.com/edikkaweb/accessible-form-demo) |
