@@ -3,6 +3,8 @@
 **Bertrand Morel**, fondateur d’[Edikka](https://www.edikka.com/), agence web à Paris depuis 2004.
 Des démonstrations à essayer, du code à explorer, des méthodes à reproduire.
 
+**[Explorer le laboratoire ouvert →](https://edikkaweb.github.io/)**
+
 | La question | Démonstration | Code |
 | :--- | :--- | :--- |
 | Même apparence, trois réalités : que change l’élément HTML ? | [Essayer](https://edikkaweb.github.io/html-aria-agent-demo/) | [Dépôt](https://github.com/edikkaweb/html-aria-agent-demo) |
@@ -19,4 +21,4 @@ Chaque projet donne accès à sa méthode, à ses sources et à ses tests.
 ---
 
 **English.** Interactive web experiments with source code, documented methods and reproducible tests. Open a repository for setup, evidence and scope.
-[Explore the open library](https://www.edikka.com/en/library) · [About Bertrand](https://www.edikka.com/en/agency/bertrand-morel)
+[Explore the experiments](https://edikkaweb.github.io/index-en.html) · [Open library](https://www.edikka.com/en/library) · [About Bertrand](https://www.edikka.com/en/agency/bertrand-morel)
