@@ -1,72 +1,22 @@
-<p align="center">
-  <img src="assets/edikka-banner.svg" alt="Edikka — un web clair, des preuves ouvertes." width="1280">
-</p>
+![Edikka : un web clair, des preuves ouvertes.](assets/edikka-banner.svg)
 
-# Edikka · Bertrand Morel
+**Bertrand Morel**, fondateur d’[Edikka](https://www.edikka.com/), agence web à Paris depuis 2004.
+Des démonstrations à essayer, du code à explorer, des méthodes à reproduire.
 
-**Stratégie digitale, UX/UI, développement web, SEO et visibilité IA.**
+| La question | Démonstration | Code |
+| :--- | :--- | :--- |
+| Même apparence, trois réalités : que change l’élément HTML ? | [Essayer](https://edikkaweb.github.io/html-aria-agent-demo/) | [Dépôt](https://github.com/edikkaweb/html-aria-agent-demo) |
+| « Message envoyé » : votre demande est-elle vraiment reçue ? | [Essayer](https://edikkaweb.github.io/accessible-form-demo/) | [Dépôt](https://github.com/edikkaweb/accessible-form-demo) |
+| HTML sémantique : que conservent les outils d’extraction ? | [Essayer](https://edikkaweb.github.io/semantic-html-extraction-demo/) | [Dépôt](https://github.com/edikkaweb/semantic-html-extraction-demo) |
+| Image sans dimensions : que se passe-t-il quand elle arrive ? | [Essayer](https://edikkaweb.github.io/image-layout-stability-demo/) | [Dépôt](https://github.com/edikkaweb/image-layout-stability-demo) |
+| Peut-on publier ce titre ? | [Essayer](https://edikkaweb.github.io/metadata-review-demo/) | [Dépôt](https://github.com/edikkaweb/metadata-review-demo) |
+| Maillage interne : quels chemins mènent à vos pages clés ? | [Essayer](https://edikkaweb.github.io/seo-architecture-demo/) | [Dépôt](https://github.com/edikkaweb/seo-architecture-demo) |
 
-Je suis [Bertrand Morel](https://www.edikka.com/agence/bertrand-morel), fondateur d’[Edikka](https://www.edikka.com/), agence web à Paris depuis 2004. Je relie les décisions de stratégie, de design, de code et de contenu pour construire des sites utiles, lisibles et maintenables.
+Chaque projet donne accès à sa méthode, à ses sources et à ses tests.
 
-[Découvrir Edikka](https://www.edikka.com/) · [Explorer la bibliothèque ouverte](https://www.edikka.com/bibliotheque) · [Lire les analyses](https://www.edikka.com/insights) · [English](#english)
-
-## Une démonstration à essayer
-
-**HTML, ARIA et agents : même apparence, trois réalités.** Trois commandes identiques en apparence, un compteur, des tests clavier et des instantanés ARIA. Vérifiée dans Chrome et Firefox ; essais de lecteurs d’écran et d’agents indépendants explicitement non testés.
-
-[Essayer la démonstration →](https://edikkaweb.github.io/html-aria-agent-demo/) · [Lire le code et les observations](https://github.com/edikkaweb/html-aria-agent-demo)
-
-## Ce qui guide mon travail
-
-| Domaine | Ce que je cherche à rendre concret |
-| :--- | :--- |
-| **Stratégie & UX/UI** | Une intention claire, des parcours compréhensibles et des choix d’interface cohérents. |
-| **Développement** | Du HTML adapté à l’usage, des interactions accessibles et un code maintenable. |
-| **Performance** | Des observations en situation, des mesures explicites et des corrections vérifiables. |
-| **SEO & visibilité IA** | Des contenus structurés et une mesure qui distingue visibilité, citations, visites et demandes. |
-
-## Trois ressources pour commencer
-
-Les ressources ci-dessous sont publiées sur **edikka.com**. Chaque lien mène à l’explication, à la méthode et aux éléments disponibles pour l’examiner.
-
-### HTML sémantique : ce que les systèmes lisent
-
-Comparer les relations exprimées dans le HTML à ce que des extracteurs conservent, transforment ou perdent. Les observations et les limites sont documentées.
-
-[Lire le protocole et ses résultats →](https://www.edikka.com/insights/developpement-web/accessibilite-seo-ia-html-semantique)
-
-### Formulaires accessibles : vérifier le parcours
-
-Examiner les erreurs, la reprise et la confirmation d’une demande, en distinguant le message affiché de la réception effective.
-
-[Découvrir la méthode de test →](https://www.edikka.com/insights/developpement-web/formulaire-accessible-erreurs-contacts-perdus)
-
-### Charte digitale : relier le design à la réalisation
-
-Une démonstration du lien entre identité visuelle, composants, règles d’accessibilité et contrôles de réalisation.
-
-[Explorer la charte Edikka →](https://www.edikka.com/expertise/ux-ui-design/charte-graphique)
-
-## Publier de quoi vérifier
-
-Les travaux ouverts d’Edikka séparent les sources, la méthode et les observations. Un résultat est accompagné de son périmètre ; un contrôle non exécuté reste non testé. Les conditions de réutilisation sont précisées dans chaque ressource.
-
-**Une observation reproductible vaut mieux qu’une promesse invérifiable.**
-
-[Tous les instruments](https://www.edikka.com/bibliotheque) · [À propos de l’auteur](https://www.edikka.com/agence/bertrand-morel) · [ORCID](https://orcid.org/0009-0001-3211-6118) · [Échanger sur un projet](https://www.edikka.com/contact)
+[Bibliothèque Edikka](https://www.edikka.com/bibliotheque) · [À propos](https://www.edikka.com/agence/bertrand-morel) · [Parlons de votre projet](https://www.edikka.com/contact)
 
 ---
 
-## English
-
-I’m [Bertrand Morel](https://www.edikka.com/en/agency/bertrand-morel), founder of **Edikka**, a Paris-based web agency established in 2004. My work connects digital strategy, UX/UI, web development, SEO and AI visibility.
-
-I focus on clear user journeys, appropriate HTML, accessible interactions, maintainable code and documented measurements. Edikka’s open resources distinguish methods, observations and limitations so readers can examine and reuse the work within its stated scope.
-
-Try the [HTML / ARIA demonstration](https://edikkaweb.github.io/html-aria-agent-demo/) with reproducible keyboard tests and published observations. Independent AI-agent and screen-reader trials remain **Not tested**.
-
-Start with the [open instrument library](https://www.edikka.com/en/library), the [semantic HTML experiment](https://www.edikka.com/en/insights/web-development/accessibility-seo-ai-semantic-html), or [Edikka in English](https://www.edikka.com/en/).
-
----
-
-<sub>Paris, France · Direction et publications : Bertrand Morel · <a href="https://www.edikka.com/">edikka.com</a></sub>
+**English.** Interactive web experiments with source code, documented methods and reproducible tests. Open a repository for setup, evidence and scope.
+[Explore the open library](https://www.edikka.com/en/library) · [About Bertrand](https://www.edikka.com/en/agency/bertrand-morel)
