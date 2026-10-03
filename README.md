@@ -13,6 +13,7 @@ Des démonstrations à essayer, du code à explorer, des méthodes à reproduire
 | Image sans dimensions : que se passe-t-il quand elle arrive ? | [Essayer](https://edikkaweb.github.io/image-layout-stability-demo/) | [Dépôt](https://github.com/edikkaweb/image-layout-stability-demo) |
 | Peut-on publier ce titre ? | [Essayer](https://edikkaweb.github.io/metadata-review-demo/) | [Dépôt](https://github.com/edikkaweb/metadata-review-demo) |
 | Maillage interne : quels chemins mènent à vos pages clés ? | [Essayer](https://edikkaweb.github.io/seo-architecture-demo/) | [Dépôt](https://github.com/edikkaweb/seo-architecture-demo) |
+| Votre plan couvre-t-il vos URL importantes ? 14 absences, 31 % des clics. | [Essayer](https://edikkaweb.github.io/seo-migration-review-demo/) | [Dépôt](https://github.com/edikkaweb/seo-migration-review-demo) |
 
 Chaque projet donne accès à sa méthode, à ses sources et à ses tests.
 
