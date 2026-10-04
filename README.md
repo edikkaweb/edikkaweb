@@ -15,6 +15,7 @@ Des démonstrations à essayer, du code à explorer, des méthodes à reproduire
 | Maillage interne : quels chemins mènent à vos pages clés ? | [Essayer](https://edikkaweb.github.io/seo-architecture-demo/) | [Dépôt](https://github.com/edikkaweb/seo-architecture-demo) |
 | Votre plan couvre-t-il vos URL importantes ? 14 absences, 31 % des clics. | [Essayer](https://edikkaweb.github.io/seo-migration-review-demo/) | [Dépôt](https://github.com/edikkaweb/seo-migration-review-demo) |
 | Votre page a changé. Votre JSON-LD aussi ? | [Essayer](https://edikkaweb.github.io/jsonld-content-consistency-demo/) | [Dépôt](https://github.com/edikkaweb/jsonld-content-consistency-demo) |
+| Une restriction robots.txt ajoutée. Un accès rouvert. | [Essayer](https://edikkaweb.github.io/robots-policy-review-demo/) | [Dépôt](https://github.com/edikkaweb/robots-policy-review-demo) |
 
 Chaque projet donne accès à sa méthode, à ses sources et à ses tests.
 
